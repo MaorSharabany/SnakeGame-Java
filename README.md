@@ -1,2 +1,4 @@
 # SnakeGame-Java
-SnakeGame i built using Java
+SnakeGame I built using Java
+
+
